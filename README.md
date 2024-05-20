@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-This dataset contains information about car model, brand, kilometers covered, mileage, number of seats, transmission type, and 
+This dataset contains information about car model, brand, kilometers covered, mileage, number of seats, transmission type, owner type etc. and these are used to predict car price. After processing the data, I visualized the predictors along with the outcome to uncover some trends. Then, I transformed the nominal and ordinal variables before modelling and fit a random forest regressor and a lasso cross validation model to see which model performs better is predicting better. Hyperparameter tuning was done to identify the ideal parameters to achieve optimal model performance.
